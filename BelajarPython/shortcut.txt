@@ -1,0 +1,4 @@
+alt + arah          --> memindah satu baris 
+alt + shift + arah  --> mengcopy satu baris 
+ctrl + shift + arah --> block 1 baris
+ctrl + d            --> memblock langsung semua character yang di block setelahnya
