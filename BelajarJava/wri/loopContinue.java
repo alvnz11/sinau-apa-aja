@@ -17,10 +17,13 @@ public class loopContinue {
             }
             b += number;
             count++;
+            input.close();
+            
         }
         total = (double) b;
         System.out.printf("The total number is less than 50 : %.2f\n" , total);
         avg = (double) b/count;
         System.out.printf("The total number less than 50 : %.2f\n", avg);
+    
     }
 }
