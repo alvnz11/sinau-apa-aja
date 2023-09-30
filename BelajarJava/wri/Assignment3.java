@@ -1,6 +1,3 @@
-package com.wri;
-
-
 import java.util.Scanner;
 
 public class Assignment3 {

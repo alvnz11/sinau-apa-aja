@@ -1,5 +1,3 @@
-package com.wri;
-
 import java.util.Scanner;
 
 public class jbs5tgs2 {
